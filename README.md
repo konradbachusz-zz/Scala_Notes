@@ -1,2 +1,3 @@
-# Scala_Utils
-List of utility functions written in Scala
+# Scala_Notes
+
+My personal notes from learnin Scala programming language
