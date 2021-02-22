@@ -1,3 +1,3 @@
 # Scala_Notes
 
-My personal notes from learnin Scala programming language
+My personal notes from learning Scala programming language
